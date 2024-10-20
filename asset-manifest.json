@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bkce/static/css/main.e6c13ad2.css",
-    "main.js": "/bkce/static/js/main.7635f154.js",
+    "main.js": "/bkce/static/js/main.d5f47384.js",
     "static/js/453.9931dbef.chunk.js": "/bkce/static/js/453.9931dbef.chunk.js",
     "static/media/bkce.png": "/bkce/static/media/bkce.0f4bbe7d731d0af379c8.png",
     "index.html": "/bkce/index.html",
     "main.e6c13ad2.css.map": "/bkce/static/css/main.e6c13ad2.css.map",
-    "main.7635f154.js.map": "/bkce/static/js/main.7635f154.js.map",
+    "main.d5f47384.js.map": "/bkce/static/js/main.d5f47384.js.map",
     "453.9931dbef.chunk.js.map": "/bkce/static/js/453.9931dbef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7635f154.js"
+    "static/js/main.d5f47384.js"
   ]
 }
